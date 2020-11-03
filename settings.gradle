@@ -1,0 +1,2 @@
+rootProject.name='signupf'
+include ':app'
