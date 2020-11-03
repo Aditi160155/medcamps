@@ -1,2 +1,0 @@
-# medcamps
-android application
